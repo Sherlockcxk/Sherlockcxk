@@ -1,3 +1,5 @@
+### Star my repo[*⚡rickroll-lang⚡*](https://github.com/Rick-Lang/rickroll-lang), and I will star all of your pinned repos!
+
 ### Hi there, I'm Sherlock! 👋
 - I'm an international midle school student from China. For now I'm studying in Southern California.
 - I’m currently working on _**[Rick Roll Esolang](https://github.com/Rick-Lang/rickroll-lang)**_
