@@ -1,4 +1,4 @@
-# Don't star my repo[*⚡Rick-Lang/rickroll-lang⚡*](https://github.com/Rick-Lang/rickroll-lang), if so I will star all of your pinned repositories!
+# Star my repo[*⚡Rick-Lang/rickroll-lang⚡*](https://github.com/Rick-Lang/rickroll-lang), and I will star all of your pinned repositories!
 
 ### Hi there, I'm Sherlock! 👋
 - I'm a 12 years old middle school student from China, and for now I'm studying in Southern California.
