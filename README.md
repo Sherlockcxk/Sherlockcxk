@@ -5,7 +5,7 @@
 - I’m currently working on _**[Rick Roll Esoteric Programming Language](https://github.com/Rick-Lang/rickroll-lang)**_
 
 ### Rick Roll Programming Language Organization
-![](https://repository-images.githubusercontent.com/367934588/4a27ae00-b73b-11eb-801b-36dd1756dc93)
+
 - https://github.com/Rick-Lang/
 ### Contact
 - Wechat/微信号: githubsherlockcxk
