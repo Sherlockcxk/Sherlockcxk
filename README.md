@@ -7,9 +7,3 @@
 ### Rick Roll Programming Language Organization
 
 - https://github.com/Rick-Lang/
-### Contact
-- Wechat/微信号: githubsherlockcxk
-- Email: cxk53cn@gmail.com
-- Gitee: https://gitee.com/cxk-53
-
-![](https://user-images.githubusercontent.com/74444486/123045114-5ee90880-d3af-11eb-95dd-ff8398753b07.jpeg)
