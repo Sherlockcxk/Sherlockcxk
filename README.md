@@ -14,3 +14,6 @@
 - [Silence Wang (汪苏泷)](https://en.wikipedia.org/wiki/Silence_Wang)
 - Alan Walker
 - Jolin Tsai (蔡依林)
+
+### My Favorite Television Drama
+[ShuiHu Zhuan (水浒传)](https://www.bilibili.com/bangumi/play/ep327285)
