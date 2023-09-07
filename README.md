@@ -1,5 +1,7 @@
 ## Hi there, I'm Sherlockcxk! 👋
-My Main Account: @SatinWukerORIG
+The greatest supoorter and contributor of the Rickroll Programming Language!
+
+If you star [this](https://github.com/Rick-Lang/rickroll-lang), I will star all of your pinned repos!
 ## Rickroll Programming language:
 https://github.com/Rick-Lang/rickroll-lang
 <img src="https://avatars.githubusercontent.com/u/83736946?s=200&v=4" align="right" width="150" height="150"/>
