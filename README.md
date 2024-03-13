@@ -1,5 +1,5 @@
 ## Hi there, I'm Sherlockcxk! 👋
-The greatest supoorter and contributor of the Rickroll Programming Language!
+The greatest supporter and contributor of the Rickroll Programming Language!
 
 ## Rickroll Programming language:
 https://github.com/Rick-Lang/rickroll-lang
@@ -10,4 +10,3 @@ take me to ur heart
     i just wanna tell u how im feeling msg
 say goodbye
 ```
-**Please give a star!**
